@@ -1,0 +1,97 @@
+{
+    "products":[
+        {
+            "Serial No":"1",
+            "Item Name": "Rice",
+            "Quantity":"5 kg",
+            "Unit":"2",
+            "Department":"Cereals",
+            "Notes":"Brand-Pavizham"
+        },
+
+        {
+            "Serial No":"2",
+            "Item Name": "Tea ",
+            "Quantity":"500gm",
+            "Unit":"1",
+            "Department":"Beverages",
+            "Notes":"Brand-AVT"
+        },
+
+        {
+            "Serial No":"3",
+            "Item Name": "Hand Wash",
+            "Quantity":"200ml",
+            "Unit":"2",
+            "Department":"Toiletries",
+            "Notes":"If not Hand sanitizer"
+        },
+
+        {
+            "Serial No":"4",
+            "Item Name": "Soap",
+            "Quantity":"",
+            "Unit":"3",
+            "Department":"Toiletries",
+            "Notes":"Brand-Dettol"            
+        },
+
+        {
+            "Serial No":"5",
+            "Item Name": "Sugar",
+            "Quantity":"1 kg",
+            "Unit":"1",
+            "Department":"Condiments",
+            "Notes":"prefer crystal sugar"
+        },
+
+        {
+            "Serial No":"6",
+            "Item Name": "Apple",
+            "Quantity":"1 kg",
+            "Unit":"1",
+            "Department":"Fruits",
+            "Notes":"Fresh"
+        },
+
+        {
+            "Serial No":"7",
+            "Item Name": "Butter",
+            "Quantity":"250gm",
+            "Unit":"1",
+            "Department":"Dairy",
+            "Notes":"Brand-Amul"
+        },
+
+        {
+            "Serial No":"8",
+            "Item Name": "Paneer",
+            "Quantity":"250gm",
+            "Unit":"1",
+            "Department":"Dairy",
+            "Notes":"Brand-Amul"
+        },
+
+        {
+            "Serial No":"9",
+            "Item Name": "Ice Cream",
+            "Quantity":"500ml",
+            "Unit":"1",
+            "Department":"Dairy",
+            "Notes":"Butterscotch"
+        },
+
+        {
+            "Serial No":"10",
+            "Item Name": "Coconut oil",
+            "Quantity":"500gm",
+            "Unit":"1",
+            "Department":"Cooking Oil",
+            "Notes":"Brand-Kera"
+        }
+]
+
+
+
+
+}

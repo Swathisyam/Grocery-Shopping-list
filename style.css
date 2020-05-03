@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#table_list{
+    margin-top: 20px;
+    margin-left: 25%;
+}
+/* th, td, p{
+    font:90px ;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    
+
+img{
+    margin-left: 250px;
+}
+/* img:hover {
+    transform: scaleX(-1);
+  } */
+h1{ 
+    margin-top: 50px;
+    margin-left: 27%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+     width: 800px;
+    /* height: 100px; */ 
+    background-color:burlywood;
+    animation-name: heading;
+    animation-duration: 10s;
+    color: seashell;
+    /* border-color: darkblue; */
+    /* transition: width 2s; */
+  }
+  
+  
+  @keyframes heading {
+    
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    75%  {background-color: green;}
+    100% {background-color: grey;}
+  }
+    
+
+tr{
+    font-size: larger;
+}
+tr:hover {
+    
+    color: indianred ;
+    font-size: larger;
+    /* background-color: rgb(181, 243, 200); */
+
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+
+
+table,  td 
+{   
+    vertical-align: top;
+    margin-left: 5%;
+    font-weight: 600;
+    /* border: dotted 1px rgb(209, 32, 32); */
+    border-collapse: collapse;
+    padding: 14px 10px;
+    text-align: center;
+}
+table{
+    border: 15px solid coral;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {border-color: rgb(97, 247, 105);}
+    50% {box-shadow: 10px 20px 30px rgb(6, 151, 55);}
+  }
+th {
+    font-family: monospace;
+    font-size: larger;
+    font-weight:bold;
+    background-image: url(s1.jpg);
+    color: seashell;
+    text-align: center;
+    padding: 14px 10px;
+}
+
+  input[type="button"]{
+    size: 3px;
+    color: crimson;
+    border-radius: 500px;
+    background: rosybrown;
+    /* display: block; */
+    text-align: center;
+    padding: 14px 10px; 
+    width: 255px;
+    outline: none;
+    color: black;
+    font-size: large;
+    margin-left: 250px;
+}
+ input[type="button"]:hover{
+    background-color: salmon;
+    transition: 0.15s;
+    cursor: pointer;
+    border-radius: 500px;
+    border-style: dotted;
+    color: seagreen;
+    font-size: larger;
+    
+}
+
+
+.footer {
+    height: 2em;
+    padding-top: 9px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:rgba(178, 145, 253, 0.815);
+   color:black;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: larger;
+}
+
