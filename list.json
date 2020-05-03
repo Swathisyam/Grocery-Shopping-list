@@ -88,6 +88,33 @@
             "Unit":"1",
             "Department":"Cooking Oil",
             "Notes":"Brand-Kera"
+        },
+
+        {
+            "Serial No":"11",
+            "Item Name": "Ladies Finger",
+            "Quantity":"250gm",
+            "Unit":"",
+            "Department":"Vegetables",
+            "Notes":"Fresh"
+        },
+
+        {
+            "Serial No":"12",
+            "Item Name": "Tomatoes",
+            "Quantity":"250gm",
+            "Unit":"",
+            "Department":"Vegetables",
+            "Notes":"Prefer fresh and ripen"
+        },
+
+        {
+            "Serial No":"13",
+            "Item Name": "Green gram",
+            "Quantity":"500gm",
+            "Unit":"1",
+            "Department":"Pulses",
+            "Notes":""
         }
 ]
 
